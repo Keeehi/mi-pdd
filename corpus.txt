@@ -1,0 +1,2 @@
+clickbait: clickbait.txt
+nonclickbait: nonclickbait.txt
